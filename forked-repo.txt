@@ -1,7 +1,9 @@
 
 curl -s https://api.github.com/repos/JyosithaaRT/mcino-Introduction-to-Git-and-GitHub
-
-"fork": true,
-"parent": {
-  "clone_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git"
+{
+  "full_name": "JyosithaaRT/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "clone_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git"
+  }
 }
